@@ -33,3 +33,7 @@ Automated routine investigator service requests within eProsecutor — mugshots,
 
 **Paralegal Toolkit — Chrome Extension Suite** — JavaScript · Chrome Extension API · Python · Claude Code  
 Suite of browser-based tools for paralegal workflows without Adobe Acrobat dependencies. PDF Bates Numbering: live on Chrome Web Store. RedactPDF and CleanMetadata: in active development.
+
+## Stack
+
+Python · JavaScript · Claude / Claude Code / Claude Projects · Power Automate Desktop · Playwright · Chrome Extension API · Ollama · FastAPI · SQLite
